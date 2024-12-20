@@ -1,7 +1,7 @@
 Repositório GitHub(link): https://github.com/IgorMartins04/Project-Beck-End.git
 
 Alunos:
-  Luiz Antonio da Silva Marçon. 
+  - Luiz Antonio da Silva Marçon. 
   RA: 2612232
 
   - Igor Martins dos Santos.
